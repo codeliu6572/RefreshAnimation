@@ -10,6 +10,10 @@
 
 @interface ViewController : UIViewController
 
+@property(nonatomic,strong)UIImageView *refreshImageView1;
+@property(nonatomic,strong)UIImageView *refreshImageView2;
+@property(nonatomic,strong)UILabel *refereshLabel;
+
 
 @end
 
